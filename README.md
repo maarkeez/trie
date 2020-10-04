@@ -1,5 +1,7 @@
 # Trie
 
+![badge workflow status](https://img.shields.io/github/workflow/status/maarkeez/trie/Java%20CI%20with%20Gradle)
+
 This project implements [Trie](https://en.wikipedia.org/wiki/Trie) search such as
 * Check if the Trie contains a word starting with a given prefix
 * Check if a word it's contained in the Trie
